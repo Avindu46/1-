@@ -23,7 +23,7 @@
 ***
 # Deployment link not working?
 
-> If you do not have a Github account, create a new [Github](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) account
+> If you do not have a Github account, create a new [Github](https://github.com/ravindu01manoj/Sew-Queen) account
 
 > Now Click The [Fork](https://github.com/ravindu01manoj/Sew-Queen/fork)
 
